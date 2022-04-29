@@ -59,50 +59,37 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
-		},
-		{
-			id: '3',
 			name: 'Clickup',
 			icon: 'trello',
 			link: 'https://app.clickup.com',
 		},
 		{
-			id: '4',
+			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
-
-	],
-
-	secondButtonsContainer: [
 		{
-			id: '1',
+			id: '4',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://music.apple.com/us/browse',
 		},
 		{
-			id: '2',
+			id: '5',
 			name: 'twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
 		{
-			id: '3',
+			id: '6',
 			name: 'Hacker News',
 			icon: 'glasses',
 			link: 'https://news.ycombinator.com',
 		},
-		{
-			id: '4',
-			name: 'YT',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
-		},
+	],
+
+	secondButtonsContainer: [
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
