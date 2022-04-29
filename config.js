@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Andrzej',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Clickup',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://app.clickup.com',
 		},
 		{
 			id: '4',
@@ -75,18 +75,7 @@ const CONFIG = {
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
-		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
+
 	],
 
 	secondButtonsContainer: [
@@ -94,7 +83,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.apple.com/us/browse',
 		},
 		{
 			id: '2',
@@ -104,27 +93,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Hacker News',
+			icon: 'glasses',
+			link: 'https://news.ycombinator.com',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
-		},
-		{
-			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
-		},
-		{
-			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'YT',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 	],
 
