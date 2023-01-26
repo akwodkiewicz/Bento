@@ -53,36 +53,18 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
-			name: 'Clickup',
-			icon: 'trello',
-			link: 'https://app.clickup.com',
-		},
-		{
-			id: '3',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '4',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://music.apple.com/us/browse',
+			id: '2',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
-			id: '5',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '6',
+			id: '3',
 			name: 'Hacker News',
 			icon: 'glasses',
 			link: 'https://news.ycombinator.com',
@@ -90,6 +72,25 @@ const CONFIG = {
 	],
 
 	secondButtonsContainer: [
+		{
+			id: '1',
+			name: 'Facebook',
+			icon: 'facebook',
+			link: 'https://facebook.com',
+		},
+
+		{
+			id: '2',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://open.spotify.com/',
+		},
+		{
+			id: '3',
+			name: 'twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
+		},
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
