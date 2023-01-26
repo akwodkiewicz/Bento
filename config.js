@@ -69,28 +69,29 @@ const CONFIG = {
 			icon: 'glasses',
 			link: 'https://news.ycombinator.com',
 		},
-	],
-
-	secondButtonsContainer: [
 		{
-			id: '1',
+			id: '4',
 			name: 'Facebook',
 			icon: 'facebook',
 			link: 'https://facebook.com',
 		},
 
 		{
-			id: '2',
+			id: '5',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://open.spotify.com/',
 		},
 		{
-			id: '3',
+			id: '6',
 			name: 'twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
+	],
+
+	secondButtonsContainer: [
+
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
